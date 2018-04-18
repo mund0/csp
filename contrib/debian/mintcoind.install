@@ -1,0 +1,2 @@
+debian/bin/cspd usr/bin
+src/cspd usr/lib/csp

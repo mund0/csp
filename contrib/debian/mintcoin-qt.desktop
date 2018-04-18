@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Csp
+Comment=Csp P2P Cryptocurrency
+Comment[fr]=Csp, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Csp, eşten eşe kriptografik sanal para birimi
+Comment[es]=Csp, una criptomoneda P2P
+Exec=/usr/bin/csp-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/csp;
+Categories=Office;

@@ -1,0 +1,5 @@
+csp-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/csp-qt.desktop usr/share/applications
+debian/csp-qt.protocol usr/share/kde4/services/
